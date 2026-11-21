@@ -1,0 +1,11 @@
+04:30:29 mobilenetv3_large_100 params 5483032 lower feats (2527, 112, 14, 14)
+04:30:30 seed0 p1_ce test acc 0.868
+04:35:50 seed0 aug caches 320s
+04:39:49 seed0 p2_ce TEST acc 0.900 mF1 0.884
+04:39:50 seed1 p1_ce test acc 0.876
+04:44:04 seed1 aug caches 254s
+04:47:57 seed1 p2_ce TEST acc 0.908 mF1 0.888
+04:47:58 seed2 p1_ce test acc 0.874
+04:52:02 seed2 aug caches 244s
+04:55:52 seed2 p2_ce TEST acc 0.918 mF1 0.907
+04:55:52 DONE

@@ -1,0 +1,45 @@
+15:39:36 images (2527, 3, 224, 224) class counts [403, 501, 410, 594, 482, 137]
+15:40:33 lower_clean (2527, 160, 7, 7) 57s
+15:40:36 seed 0: train/val/test = 1768/379/380 {'train': [282, 350, 287, 416, 337, 96], 'val': [61, 75, 61, 89, 72, 21], 'test': [60, 76, 62, 89, 73, 20]}
+15:40:38 seed0 p1_ce: val acc 0.873  test acc 0.868  test mF1 0.847
+15:40:38 seed0 p1_cw: val acc 0.865  test acc 0.876  test mF1 0.854
+15:51:30 seed0: augmented caches built in 652s
+15:51:38   seed0 cw ep1/15 loss 0.168 val_acc 0.894 val_mF1 0.879 (8s)
+15:51:46   seed0 cw ep2/15 loss 0.135 val_acc 0.897 val_mF1 0.877 (16s)
+15:51:54   seed0 cw ep3/15 loss 0.136 val_acc 0.897 val_mF1 0.868 (24s)
+15:52:02   seed0 cw ep4/15 loss 0.125 val_acc 0.902 val_mF1 0.888 (32s)
+15:52:10   seed0 cw ep5/15 loss 0.116 val_acc 0.902 val_mF1 0.886 (40s)
+15:52:19   seed0 cw ep6/15 loss 0.108 val_acc 0.889 val_mF1 0.873 (49s)
+15:52:27   seed0 cw ep7/15 loss 0.097 val_acc 0.897 val_mF1 0.871 (57s)
+15:52:35   seed0 cw ep8/15 loss 0.094 val_acc 0.902 val_mF1 0.884 (65s)
+15:52:43   seed0 cw ep9/15 loss 0.088 val_acc 0.900 val_mF1 0.882 (73s)
+15:52:51   seed0 cw ep10/15 loss 0.088 val_acc 0.902 val_mF1 0.880 (81s)
+15:52:59   seed0 cw ep11/15 loss 0.086 val_acc 0.908 val_mF1 0.891 (89s)
+15:53:07   seed0 cw ep12/15 loss 0.077 val_acc 0.902 val_mF1 0.884 (97s)
+15:53:16   seed0 cw ep13/15 loss 0.061 val_acc 0.900 val_mF1 0.873 (105s)
+15:53:24   seed0 cw ep14/15 loss 0.070 val_acc 0.900 val_mF1 0.873 (114s)
+15:53:33   seed0 cw ep15/15 loss 0.074 val_acc 0.900 val_mF1 0.878 (122s)
+15:53:34 seed0 p2_cw: TEST acc 0.892 mF1 0.870 trashF1 0.698 auc 0.988
+15:53:34 DONE
+15:53:38 images (2527, 3, 224, 224) class counts [403, 501, 410, 594, 482, 137]
+15:53:41 seed 0: train/val/test = 1768/379/380 {'train': [282, 350, 287, 416, 337, 96], 'val': [61, 75, 61, 89, 72, 21], 'test': [60, 76, 62, 89, 73, 20]}
+15:53:44 seed0 p1_ce: val acc 0.873  test acc 0.868  test mF1 0.847
+15:53:44 seed0 p1_cw: val acc 0.865  test acc 0.876  test mF1 0.854
+16:04:21 seed0: augmented caches built in 637s
+16:04:29   seed0 cw ep1/15 loss 0.304 val_acc 0.871 val_mF1 0.846 (8s)
+16:04:37   seed0 cw ep2/15 loss 0.202 val_acc 0.863 val_mF1 0.841 (16s)
+16:04:45   seed0 cw ep3/15 loss 0.124 val_acc 0.881 val_mF1 0.853 (24s)
+16:04:53   seed0 cw ep4/15 loss 0.089 val_acc 0.897 val_mF1 0.878 (32s)
+16:05:01   seed0 cw ep5/15 loss 0.081 val_acc 0.908 val_mF1 0.884 (40s)
+16:05:10   seed0 cw ep6/15 loss 0.087 val_acc 0.887 val_mF1 0.869 (49s)
+16:05:19   seed0 cw ep7/15 loss 0.050 val_acc 0.913 val_mF1 0.882 (58s)
+16:05:27   seed0 cw ep8/15 loss 0.064 val_acc 0.902 val_mF1 0.879 (66s)
+16:05:36   seed0 cw ep9/15 loss 0.049 val_acc 0.918 val_mF1 0.900 (75s)
+16:05:44   seed0 cw ep10/15 loss 0.032 val_acc 0.913 val_mF1 0.888 (83s)
+16:05:52   seed0 cw ep11/15 loss 0.030 val_acc 0.926 val_mF1 0.910 (91s)
+16:06:01   seed0 cw ep12/15 loss 0.038 val_acc 0.910 val_mF1 0.863 (100s)
+16:06:09   seed0 cw ep13/15 loss 0.018 val_acc 0.908 val_mF1 0.892 (108s)
+16:06:18   seed0 cw ep14/15 loss 0.031 val_acc 0.900 val_mF1 0.877 (117s)
+16:06:26   seed0 cw ep15/15 loss 0.021 val_acc 0.910 val_mF1 0.881 (125s)
+16:06:28 seed0 p2_cw: TEST acc 0.905 mF1 0.881 trashF1 0.706 auc 0.991
+16:06:28 DONE
